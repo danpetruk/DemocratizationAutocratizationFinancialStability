@@ -1,0 +1,2172 @@
+﻿country;eiu;year;ISO 3166 name;country code;default probability
+Canada;9.24;2020;Canada;CA;6.508
+Canada;9.22;2019;Canada;CA;6.574
+Canada;9.15;2018;Canada;CA;6.513
+Canada;9.15;2017;Canada;CA;6.471
+Canada;9.15;2016;Canada;CA;6.398
+Canada;9.08;2015;Canada;CA;6.679
+Canada;9.08;2014;Canada;CA;8.098
+Canada;9.08;2013;Canada;CA;8.062
+Canada;9.08;2012;Canada;CA;9.232
+Canada;9.08;2011;Canada;CA;#N/A
+Canada;9.08;2010;Canada;CA;#N/A
+Canada;9.07;2008;Canada;CA;#N/A
+Canada;9.07;2006;Canada;CA;#N/A
+US;7.92;2020;United States of America (the);US;Fatal error
+US;7.96;2019;United States of America (the);US;Fatal error
+US;7.96;2018;United States of America (the);US;Fatal error
+US;7.98;2017;United States of America (the);US;Fatal error
+US;7.98;2016;United States of America (the);US;Fatal error
+US;8.05;2015;United States of America (the);US;Fatal error
+US;8.11;2014;United States of America (the);US;Fatal error
+US;8.11;2013;United States of America (the);US;Fatal error
+US;8.11;2012;United States of America (the);US;Fatal error
+US;8.11;2011;United States of America (the);US;Fatal error
+US;8.18;2010;United States of America (the);US;Fatal error
+US;8.22;2008;United States of America (the);US;Fatal error
+US;8.22;2006;United States of America (the);US;Fatal error
+Austria;8.16;2020;Austria;AT;3.738
+Austria;8.29;2019;Austria;AT;3.624
+Austria;8.29;2018;Austria;AT;4.781
+Austria;8.42;2017;Austria;AT;5.006
+Austria;8.41;2016;Austria;AT;8.544
+Austria;8.54;2015;Austria;AT;8.013
+Austria;8.54;2014;Austria;AT;7.652
+Austria;8.48;2013;Austria;AT;#N/A
+Austria;8.62;2012;Austria;AT;#N/A
+Austria;8.49;2011;Austria;AT;#N/A
+Austria;8.49;2010;Austria;AT;#N/A
+Austria;8.49;2008;Austria;AT;#N/A
+Austria;8.69;2006;Austria;AT;#N/A
+Belgium;7.51;2020;Belgium;BE;4.445
+Belgium;7.64;2019;Belgium;BE;5.103
+Belgium;7.78;2018;Belgium;BE;7.473
+Belgium;7.78;2017;Belgium;BE;5.968
+Belgium;7.77;2016;Belgium;BE;10.03
+Belgium;7.93;2015;Belgium;BE;11.67
+Belgium;7.93;2014;Belgium;BE;14.314
+Belgium;8.05;2013;Belgium;BE;#N/A
+Belgium;8.05;2012;Belgium;BE;#N/A
+Belgium;8.05;2011;Belgium;BE;#N/A
+Belgium;8.05;2010;Belgium;BE;#N/A
+Belgium;8.16;2008;Belgium;BE;#N/A
+Belgium;8.15;2006;Belgium;BE;#N/A
+Cyprus;7.56;2020;Cyprus;CY;17.212
+Cyprus;7.59;2019;Cyprus;CY;16.321
+Cyprus;7.59;2018;Cyprus;CY;21.662
+Cyprus;7.59;2017;Cyprus;CY;22.452
+Cyprus;7.65;2016;Cyprus;CY;35.832
+Cyprus;7.53;2015;Cyprus;CY;37.909
+Cyprus;7.4;2014;Cyprus;CY;53.667
+Cyprus;7.29;2013;Cyprus;CY;#N/A
+Cyprus;7.29;2012;Cyprus;CY;#N/A
+Cyprus;7.29;2011;Cyprus;CY;#N/A
+Cyprus;7.29;2010;Cyprus;CY;#N/A
+Cyprus;7.7;2008;Cyprus;CY;#N/A
+Cyprus;7.6;2006;Cyprus;CY;#N/A
+Denmark;9.15;2020;Denmark;DK;2.618
+Denmark;9.22;2019;Denmark;DK;2.818
+Denmark;9.22;2018;Denmark;DK;3.957
+Denmark;9.22;2017;Denmark;DK;4.606
+Denmark;9.2;2016;Denmark;DK;6.837
+Denmark;9.11;2015;Denmark;DK;6.023
+Denmark;9.11;2014;Denmark;DK;7.287
+Denmark;9.38;2013;Denmark;DK;#N/A
+Denmark;9.52;2012;Denmark;DK;#N/A
+Denmark;9.52;2011;Denmark;DK;#N/A
+Denmark;9.52;2010;Denmark;DK;#N/A
+Denmark;9.52;2008;Denmark;DK;#N/A
+Denmark;9.52;2006;Denmark;DK;#N/A
+Finland;9.2;2020;Finland;FI;3.866
+Finland;9.25;2019;Finland;FI;3.628
+Finland;9.14;2018;Finland;FI;4.478
+Finland;9.03;2017;Finland;FI;4.509
+Finland;9.03;2016;Finland;FI;7.843
+Finland;9.03;2015;Finland;FI;6.749
+Finland;9.03;2014;Finland;FI;7.675
+Finland;9.03;2013;Finland;FI;#N/A
+Finland;9.06;2012;Finland;FI;#N/A
+Finland;9.06;2011;Finland;FI;#N/A
+Finland;9.19;2010;Finland;FI;#N/A
+Finland;9.25;2008;Finland;FI;#N/A
+Finland;9.25;2006;Finland;FI;#N/A
+France;7.99;2020;France;FR;5.317
+France;8.12;2019;France;FR;5.526
+France;7.8;2018;France;FR;9.684
+France;7.8;2017;France;FR;6.173
+France;7.92;2016;France;FR;10.666
+France;7.92;2015;France;FR;9.641
+France;8.04;2014;France;FR;14.087
+France;7.92;2013;France;FR;#N/A
+France;7.88;2012;France;FR;#N/A
+France;7.77;2011;France;FR;#N/A
+France;7.77;2010;France;FR;#N/A
+France;8.07;2008;France;FR;#N/A
+France;8.07;2006;France;FR;#N/A
+Germany;8.67;2020;Germany;DE;3.865
+Germany;8.68;2019;Germany;DE;3.073
+Germany;8.68;2018;Germany;DE;4.186
+Germany;8.61;2017;Germany;DE;4.072
+Germany;8.63;2016;Germany;DE;6.588
+Germany;8.64;2015;Germany;DE;5.407
+Germany;8.64;2014;Germany;DE;6.438
+Germany;8.31;2013;Germany;DE;#N/A
+Germany;8.34;2012;Germany;DE;#N/A
+Germany;8.34;2011;Germany;DE;#N/A
+Germany;8.38;2010;Germany;DE;#N/A
+Germany;8.82;2008;Germany;DE;#N/A
+Germany;8.82;2006;Germany;DE;#N/A
+Greece;7.39;2020;Greece;GR;24.206
+Greece;7.43;2019;Greece;GR;27.127
+Greece;7.29;2018;Greece;GR;60.457
+Greece;7.29;2017;Greece;GR;42.924
+Greece;7.23;2016;Greece;GR;73.436
+Greece;7.45;2015;Greece;GR;#N/A
+Greece;7.45;2014;Greece;GR;#N/A
+Greece;7.65;2013;Greece;GR;#N/A
+Greece;7.65;2012;Greece;GR;#N/A
+Greece;7.65;2011;Greece;GR;#N/A
+Greece;7.92;2010;Greece;GR;#N/A
+Greece;8.13;2008;Greece;GR;#N/A
+Greece;8.13;2006;Greece;GR;#N/A
+Iceland;9.37;2020;Iceland;IS;14.728
+Iceland;9.58;2019;Iceland;IS;15.011
+Iceland;9.58;2018;Iceland;IS;19.207
+Iceland;9.58;2017;Iceland;IS;18.478
+Iceland;9.5;2016;Iceland;IS;21.382
+Iceland;9.58;2015;Iceland;IS;23.513
+Iceland;9.58;2014;Iceland;IS;27.782
+Iceland;9.65;2013;Iceland;IS;#N/A
+Iceland;9.65;2012;Iceland;IS;#N/A
+Iceland;9.65;2011;Iceland;IS;#N/A
+Iceland;9.65;2010;Iceland;IS;#N/A
+Iceland;9.65;2008;Iceland;IS;#N/A
+Iceland;9.71;2006;Iceland;IS;#N/A
+Ireland;9.05;2020;Ireland;IE;5.439
+Ireland;9.24;2019;Ireland;IE;6.478
+Ireland;9.15;2018;Ireland;IE;10.423
+Ireland;9.15;2017;Ireland;IE;8.604
+Ireland;9.15;2016;Ireland;IE;15.709
+Ireland;8.85;2015;Ireland;IE;12.702
+Ireland;8.72;2014;Ireland;IE;14.758
+Ireland;8.68;2013;Ireland;IE;#N/A
+Ireland;8.56;2012;Ireland;IE;#N/A
+Ireland;8.56;2011;Ireland;IE;#N/A
+Ireland;8.79;2010;Ireland;IE;#N/A
+Ireland;9.01;2008;Ireland;IE;#N/A
+Ireland;9.01;2006;Ireland;IE;#N/A
+Italy;7.74;2020;Italy;IT;21.975
+Italy;7.52;2019;Italy;IT;24.181
+Italy;7.71;2018;Italy;IT;32.389
+Italy;7.98;2017;Italy;IT;25.022
+Italy;7.98;2016;Italy;IT;29.616
+Italy;7.98;2015;Italy;IT;22.097
+Italy;7.85;2014;Italy;IT;30.699
+Italy;7.85;2013;Italy;IT;#N/A
+Italy;7.74;2012;Italy;IT;#N/A
+Italy;7.74;2011;Italy;IT;#N/A
+Italy;7.83;2010;Italy;IT;#N/A
+Italy;7.98;2008;Italy;IT;#N/A
+Italy;7.73;2006;Italy;IT;#N/A
+Luxembourg;8.68;2020;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.81;2019;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.81;2018;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.81;2017;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.81;2016;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.88;2015;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.88;2014;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.88;2013;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.88;2012;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.88;2011;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;8.88;2010;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;9.1;2008;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Luxembourg;9.1;2006;Luxembourg;LU;Invalid RIC(s): LUGV10YUSAC=R
+Malta;7.68;2020;Malta;MT;#N/A
+Malta;7.95;2019;Malta;MT;#N/A
+Malta;8.21;2018;Malta;MT;#N/A
+Malta;8.15;2017;Malta;MT;#N/A
+Malta;8.39;2016;Malta;MT;30.885
+Malta;8.39;2015;Malta;MT;31.25
+Malta;8.39;2014;Malta;MT;31.938
+Malta;8.28;2013;Malta;MT;31.893
+Malta;8.28;2012;Malta;MT;37.948
+Malta;8.28;2011;Malta;MT;#N/A
+Malta;8.28;2010;Malta;MT;#N/A
+Malta;8.39;2008;Malta;MT;#N/A
+Malta;8.39;2006;Malta;MT;#N/A
+Netherlands;8.96;2020;Netherlands (the);NL;3.161
+Netherlands;9.01;2019;Netherlands (the);NL;3.209
+Netherlands;8.89;2018;Netherlands (the);NL;4.623
+Netherlands;8.89;2017;Netherlands (the);NL;4.445
+Netherlands;8.8;2016;Netherlands (the);NL;7.908
+Netherlands;8.92;2015;Netherlands (the);NL;6.295
+Netherlands;8.92;2014;Netherlands (the);NL;7.296
+Netherlands;8.84;2013;Netherlands (the);NL;#N/A
+Netherlands;8.99;2012;Netherlands (the);NL;#N/A
+Netherlands;8.99;2011;Netherlands (the);NL;#N/A
+Netherlands;8.99;2010;Netherlands (the);NL;#N/A
+Netherlands;9.53;2008;Netherlands (the);NL;#N/A
+Netherlands;9.66;2006;Netherlands (the);NL;#N/A
+Norway;9.81;2020;Norway;NO;3.605
+Norway;9.87;2019;Norway;NO;3.427
+Norway;9.87;2018;Norway;NO;3.902
+Norway;9.87;2017;Norway;NO;4.529
+Norway;9.93;2016;Norway;NO;6.024
+Norway;9.93;2015;Norway;NO;5.064
+Norway;9.93;2014;Norway;NO;4.866
+Norway;9.93;2013;Norway;NO;#N/A
+Norway;9.93;2012;Norway;NO;#N/A
+Norway;9.8;2011;Norway;NO;#N/A
+Norway;9.8;2010;Norway;NO;#N/A
+Norway;9.68;2008;Norway;NO;#N/A
+Norway;9.55;2006;Norway;NO;#N/A
+Portugal;7.9;2020;Portugal;PT;10.607
+Portugal;8.03;2019;Portugal;PT;11.62
+Portugal;7.84;2018;Portugal;PT;19.834
+Portugal;7.84;2017;Portugal;PT;22.963
+Portugal;7.86;2016;Portugal;PT;41.429
+Portugal;7.79;2015;Portugal;PT;31.745
+Portugal;7.79;2014;Portugal;PT;38.814
+Portugal;7.65;2013;Portugal;PT;#N/A
+Portugal;7.92;2012;Portugal;PT;#N/A
+Portugal;7.81;2011;Portugal;PT;#N/A
+Portugal;8.02;2010;Portugal;PT;#N/A
+Portugal;8.05;2008;Portugal;PT;#N/A
+Portugal;8.16;2006;Portugal;PT;#N/A
+Spain;8.12;2020;Spain;ES;11.655
+Spain;8.18;2019;Spain;ES;11.594
+Spain;8.08;2018;Spain;ES;17.828
+Spain;8.08;2017;Spain;ES;15.396
+Spain;8.3;2016;Spain;ES;18.444
+Spain;8.3;2015;Spain;ES;20.861
+Spain;8.05;2014;Spain;ES;22.943
+Spain;8.02;2013;Spain;ES;#N/A
+Spain;8.02;2012;Spain;ES;#N/A
+Spain;8.02;2011;Spain;ES;#N/A
+Spain;8.16;2010;Spain;ES;#N/A
+Spain;8.45;2008;Spain;ES;#N/A
+Spain;8.34;2006;Spain;ES;#N/A
+Sweden;9.26;2020;Sweden;SE;3.485
+Sweden;9.39;2019;Sweden;SE;3.274
+Sweden;9.39;2018;Sweden;SE;4.047
+Sweden;9.39;2017;Sweden;SE;4.282
+Sweden;9.39;2016;Sweden;SE;6.818
+Sweden;9.45;2015;Sweden;SE;5.461
+Sweden;9.73;2014;Sweden;SE;5.568
+Sweden;9.73;2013;Sweden;SE;#N/A
+Sweden;9.73;2012;Sweden;SE;#N/A
+Sweden;9.5;2011;Sweden;SE;#N/A
+Sweden;9.5;2010;Sweden;SE;#N/A
+Sweden;9.88;2008;Sweden;SE;#N/A
+Sweden;9.88;2006;Sweden;SE;#N/A
+Switzerland;8.83;2020;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.03;2019;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.03;2018;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.03;2017;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.09;2016;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.09;2015;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.09;2014;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.09;2013;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.09;2012;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.09;2011;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.09;2010;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.15;2008;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Switzerland;9.02;2006;Switzerland;CH;Invalid RIC(s): CHGV10YUSAC=R
+Turkey;4.48;2020;Turkey;TR;36.689
+Turkey;4.09;2019;Turkey;TR;35.901
+Turkey;4.37;2018;Turkey;TR;41.913
+Turkey;4.88;2017;Turkey;TR;30.884
+Turkey;5.04;2016;Turkey;TR;37.404
+Turkey;5.12;2015;Turkey;TR;35.704
+Turkey;5.12;2014;Turkey;TR;27.728
+Turkey;5.63;2013;Turkey;TR;33.869
+Turkey;5.76;2012;Turkey;TR;22.837
+Turkey;5.73;2011;Turkey;TR;36.41
+Turkey;5.73;2010;Turkey;TR;21.797
+Turkey;5.69;2008;Turkey;TR;#N/A
+Turkey;5.7;2006;Turkey;TR;#N/A
+UK;8.54;2020;United Kingdom of Great Britain and Northern Ireland (the);GB;5.299
+UK;8.52;2019;United Kingdom of Great Britain and Northern Ireland (the);GB;5.073
+UK;8.53;2018;United Kingdom of Great Britain and Northern Ireland (the);GB;9.553
+UK;8.53;2017;United Kingdom of Great Britain and Northern Ireland (the);GB;7.224
+UK;8.36;2016;United Kingdom of Great Britain and Northern Ireland (the);GB;10.825
+UK;8.31;2015;United Kingdom of Great Britain and Northern Ireland (the);GB;6.805
+UK;8.31;2014;United Kingdom of Great Britain and Northern Ireland (the);GB;7.166
+UK;8.31;2013;United Kingdom of Great Britain and Northern Ireland (the);GB;#N/A
+UK;8.21;2012;United Kingdom of Great Britain and Northern Ireland (the);GB;#N/A
+UK;8.16;2011;United Kingdom of Great Britain and Northern Ireland (the);GB;#N/A
+UK;8.16;2010;United Kingdom of Great Britain and Northern Ireland (the);GB;#N/A
+UK;8.15;2008;United Kingdom of Great Britain and Northern Ireland (the);GB;#N/A
+UK;8.08;2006;United Kingdom of Great Britain and Northern Ireland (the);GB;#N/A
+Albania;6.08;2020;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.89;2019;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.98;2018;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.98;2017;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.91;2016;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.91;2015;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.67;2014;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.67;2013;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.67;2012;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.81;2011;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.86;2010;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.91;2008;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Albania;5.91;2006;Albania;AL;Invalid RIC(s): ALGV10YUSAC=R
+Armenia;5.35;2020;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;5.54;2019;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.79;2018;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.11;2017;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;3.88;2016;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4;2015;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.13;2014;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.02;2013;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.09;2012;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.09;2011;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.09;2010;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.09;2008;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Armenia;4.15;2006;Armenia;AM;Invalid RIC(s): AMGV10YUSAC=R
+Azerbaijan;2.68;2020;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;2.75;2019;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;2.65;2018;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;2.65;2017;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;2.65;2016;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;2.71;2015;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;2.83;2014;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;3.06;2013;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;3.15;2012;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;3.15;2011;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;3.15;2010;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;3.19;2008;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Azerbaijan;3.31;2006;Azerbaijan;AZ;Invalid RIC(s): AZGV10YUSAC=R
+Belarus;2.59;2020;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;2.48;2019;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.13;2018;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.13;2017;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.54;2016;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.62;2015;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.69;2014;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.04;2013;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.04;2012;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.16;2011;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.34;2010;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.34;2008;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Belarus;3.34;2006;Belarus;BY;Invalid RIC(s): BYGV10YUSAC=R
+Bosnia and Hercegovina;4.84;2020;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;4.86;2019;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;4.98;2018;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;4.87;2017;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;4.87;2016;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;4.83;2015;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;4.78;2014;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;5.02;2013;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;5.11;2012;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;5.24;2011;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;5.32;2010;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;5.7;2008;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bosnia and Hercegovina;5.78;2006;Bosnia and Herzegovina;BA;Invalid RIC(s): BAGV10YUSAC=R
+Bulgaria;6.71;2020;Bulgaria;BG;12.47
+Bulgaria;7.03;2019;Bulgaria;BG;13.541
+Bulgaria;7.03;2018;Bulgaria;BG;13.514
+Bulgaria;7.03;2017;Bulgaria;BG;16.645
+Bulgaria;7.01;2016;Bulgaria;BG;23.684
+Bulgaria;7.14;2015;Bulgaria;BG;25.938
+Bulgaria;6.73;2014;Bulgaria;BG;28.47
+Bulgaria;6.83;2013;Bulgaria;BG;21.892
+Bulgaria;6.72;2012;Bulgaria;BG;18.992
+Bulgaria;6.78;2011;Bulgaria;BG;45.442
+Bulgaria;6.84;2010;Bulgaria;BG;30.378
+Bulgaria;7.02;2008;Bulgaria;BG;#N/A
+Bulgaria;7.1;2006;Bulgaria;BG;#N/A
+Croatia;6.5;2020;Croatia;HR;14.975
+Croatia;6.57;2019;Croatia;HR;12.288
+Croatia;6.57;2018;Croatia;HR;18.664
+Croatia;6.63;2017;Croatia;HR;20.246
+Croatia;6.75;2016;Croatia;HR;29.698
+Croatia;6.93;2015;Croatia;HR;38.42
+Croatia;6.93;2014;Croatia;HR;36.732
+Croatia;6.93;2013;Croatia;HR;44.061
+Croatia;6.93;2012;Croatia;HR;35.703
+Croatia;6.73;2011;Croatia;HR;54.349
+Croatia;6.81;2010;Croatia;HR;31.763
+Croatia;7.04;2008;Croatia;HR;#N/A
+Croatia;7.04;2006;Croatia;HR;#N/A
+Czech Republic;7.67;2020;Czechia;CZ;6.61
+Czech Republic;7.69;2019;Czechia;CZ;7.009
+Czech Republic;7.69;2018;Czechia;CZ;8.227
+Czech Republic;7.62;2017;Czechia;CZ;8.959
+Czech Republic;7.82;2016;Czechia;CZ;9.284
+Czech Republic;7.94;2015;Czechia;CZ;10.439
+Czech Republic;7.94;2014;Czechia;CZ;11.36
+Czech Republic;8.06;2013;Czechia;CZ;12.14
+Czech Republic;8.19;2012;Czechia;CZ;12.147
+Czech Republic;8.19;2011;Czechia;CZ;23.993
+Czech Republic;8.19;2010;Czechia;CZ;13.111
+Czech Republic;8.19;2008;Czechia;CZ;#N/A
+Czech Republic;8.17;2006;Czechia;CZ;#N/A
+Estonia;7.84;2020;Estonia;EE;10.185
+Estonia;7.9;2019;Estonia;EE;9.711
+Estonia;7.97;2018;Estonia;EE;10.754
+Estonia;7.79;2017;Estonia;EE;10.702
+Estonia;7.85;2016;Estonia;EE;11.777
+Estonia;7.85;2015;Estonia;EE;11
+Estonia;7.74;2014;Estonia;EE;11.923
+Estonia;7.61;2013;Estonia;EE;11.129
+Estonia;7.61;2012;Estonia;EE;12.176
+Estonia;7.61;2011;Estonia;EE;22.559
+Estonia;7.68;2010;Estonia;EE;14.217
+Estonia;7.68;2008;Estonia;EE;#N/A
+Estonia;7.74;2006;Estonia;EE;#N/A
+Georgia;5.31;2020;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;5.42;2019;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;5.5;2018;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;5.93;2017;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;5.93;2016;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;5.88;2015;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;5.82;2014;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;5.95;2013;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;5.53;2012;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;4.74;2011;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;4.59;2010;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;4.62;2008;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Georgia;4.9;2006;Georgia;GE;Invalid RIC(s): GEGV10YUSAC=R
+Hungary;6.56;2020;Hungary;HU;11.177
+Hungary;6.63;2019;Hungary;HU;13.459
+Hungary;6.63;2018;Hungary;HU;16.011
+Hungary;6.64;2017;Hungary;HU;17.577
+Hungary;6.72;2016;Hungary;HU;21
+Hungary;6.84;2015;Hungary;HU;25.232
+Hungary;6.9;2014;Hungary;HU;27.067
+Hungary;6.96;2013;Hungary;HU;34.735
+Hungary;6.96;2012;Hungary;HU;36.492
+Hungary;7.04;2011;Hungary;HU;57.447
+Hungary;7.21;2010;Hungary;HU;43.517
+Hungary;7.44;2008;Hungary;HU;#N/A
+Hungary;7.53;2006;Hungary;HU;#N/A
+Kazakhstan;3.14;2020;Kazakhstan;KZ;11.55
+Kazakhstan;2.94;2019;Kazakhstan;KZ;14.567
+Kazakhstan;2.94;2018;Kazakhstan;KZ;16.351
+Kazakhstan;3.06;2017;Kazakhstan;KZ;20.268
+Kazakhstan;3.06;2016;Kazakhstan;KZ;22.163
+Kazakhstan;3.06;2015;Kazakhstan;KZ;31.177
+Kazakhstan;3.17;2014;Kazakhstan;KZ;38.613
+Kazakhstan;3.06;2013;Kazakhstan;KZ;27.68
+Kazakhstan;2.95;2012;Kazakhstan;KZ;23.812
+Kazakhstan;3.24;2011;Kazakhstan;KZ;37.293
+Kazakhstan;3.3;2010;Kazakhstan;KZ;25.754
+Kazakhstan;3.45;2008;Kazakhstan;KZ;#N/A
+Kazakhstan;3.62;2006;Kazakhstan;KZ;#N/A
+Kyrgyz Republic;4.21;2020;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;4.89;2019;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;5.11;2018;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;5.11;2017;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;4.93;2016;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;5.33;2015;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;5.24;2014;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;4.69;2013;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;4.69;2012;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;4.34;2011;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;4.31;2010;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;4.05;2008;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Kyrgyz Republic;4.08;2006;Kyrgyzstan;KG;Invalid RIC(s): KGGV10YUSAC=R
+Latvia;7.24;2020;Latvia;LV;11.345
+Latvia;7.49;2019;Latvia;LV;12.244
+Latvia;7.38;2018;Latvia;LV;14.636
+Latvia;7.25;2017;Latvia;LV;11.505
+Latvia;7.31;2016;Latvia;LV;13.369
+Latvia;7.37;2015;Latvia;LV;16.522
+Latvia;7.48;2014;Latvia;LV;20.573
+Latvia;7.05;2013;Latvia;LV;21.226
+Latvia;7.05;2012;Latvia;LV;21.137
+Latvia;7.05;2011;Latvia;LV;42.509
+Latvia;7.05;2010;Latvia;LV;31.788
+Latvia;7.23;2008;Latvia;LV;#N/A
+Latvia;7.37;2006;Latvia;LV;#N/A
+Lithuania;7.13;2020;Lithuania;LT;11.757
+Lithuania;7.5;2019;Lithuania;LT;11.062
+Lithuania;7.5;2018;Lithuania;LT;13.42
+Lithuania;7.41;2017;Lithuania;LT;11.8
+Lithuania;7.47;2016;Lithuania;LT;13.393
+Lithuania;7.54;2015;Lithuania;LT;16.664
+Lithuania;7.54;2014;Lithuania;LT;20.777
+Lithuania;7.54;2013;Lithuania;LT;21.368
+Lithuania;7.24;2012;Lithuania;LT;19.017
+Lithuania;7.24;2011;Lithuania;LT;42.396
+Lithuania;7.24;2010;Lithuania;LT;30.994
+Lithuania;7.36;2008;Lithuania;LT;#N/A
+Lithuania;7.43;2006;Lithuania;LT;#N/A
+Moldova;5.78;2020;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;5.75;2019;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;5.85;2018;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;5.94;2017;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.01;2016;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.35;2015;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.32;2014;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.32;2013;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.32;2012;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.32;2011;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.33;2010;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.5;2008;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Moldova;6.5;2006;Moldova (the Republic of);MD;Invalid RIC(s): MDGV10YUSAC=R
+Montenegro;5.77;2020;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;5.65;2019;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;5.74;2018;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;5.69;2017;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;5.72;2016;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;6.01;2015;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;5.94;2014;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;5.94;2013;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;6.05;2012;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;6.15;2011;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;6.27;2010;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;6.43;2008;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+Montenegro;6.57;2006;Montenegro;ME;Invalid RIC(s): MEGV10YUSAC=R
+North Macedonia;5.89;2020;North Macedonia;MK;#N/A
+North Macedonia;5.97;2019;North Macedonia;MK;28.9
+North Macedonia;5.87;2018;North Macedonia;MK;28.308
+North Macedonia;5.57;2017;North Macedonia;MK;28.301
+North Macedonia;5.23;2016;North Macedonia;MK;60.123
+North Macedonia;6.02;2015;North Macedonia;MK;61.034
+North Macedonia;6.25;2014;North Macedonia;MK;#N/A
+North Macedonia;6.16;2013;North Macedonia;MK;#N/A
+North Macedonia;6.16;2012;North Macedonia;MK;#N/A
+North Macedonia;6.16;2011;North Macedonia;MK;#N/A
+North Macedonia;6.16;2010;North Macedonia;MK;#N/A
+North Macedonia;6.21;2008;North Macedonia;MK;#N/A
+North Macedonia;6.33;2006;North Macedonia;MK;#N/A
+Poland;6.85;2020;Poland;PL;9.199
+Poland;6.62;2019;Poland;PL;11.115
+Poland;6.67;2018;Poland;PL;13.324
+Poland;6.67;2017;Poland;PL;12.105
+Poland;6.83;2016;Poland;PL;16.072
+Poland;7.09;2015;Poland;PL;15.882
+Poland;7.47;2014;Poland;PL;15.863
+Poland;7.12;2013;Poland;PL;17.161
+Poland;7.12;2012;Poland;PL;17.131
+Poland;7.12;2011;Poland;PL;34.965
+Poland;7.05;2010;Poland;PL;20.61
+Poland;7.3;2008;Poland;PL;#N/A
+Poland;7.3;2006;Poland;PL;#N/A
+Romania;6.4;2020;Romania;RO;18.063
+Romania;6.49;2019;Romania;RO;15.671
+Romania;6.38;2018;Romania;RO;18.471
+Romania;6.44;2017;Romania;RO;16.995
+Romania;6.62;2016;Romania;RO;19.233
+Romania;6.68;2015;Romania;RO;21.734
+Romania;6.68;2014;Romania;RO;22.841
+Romania;6.54;2013;Romania;RO;28.726
+Romania;6.54;2012;Romania;RO;31.497
+Romania;6.54;2011;Romania;RO;48.378
+Romania;6.6;2010;Romania;RO;34.795
+Romania;7.06;2008;Romania;RO;#N/A
+Romania;7.06;2006;Romania;RO;#N/A
+Russia;3.31;2020;Russian Federation (the);RU;19.172
+Russia;3.11;2019;Russian Federation (the);RU;15.37
+Russia;2.94;2018;Russian Federation (the);RU;25.58
+Russia;3.17;2017;Russian Federation (the);RU;23.836
+Russia;3.24;2016;Russian Federation (the);RU;28.905
+Russia;3.31;2015;Russian Federation (the);RU;37.085
+Russia;3.39;2014;Russian Federation (the);RU;41.175
+Russia;3.59;2013;Russian Federation (the);RU;27.063
+Russia;3.74;2012;Russian Federation (the);RU;23.905
+Russia;3.92;2011;Russian Federation (the);RU;34.982
+Russia;4.26;2010;Russian Federation (the);RU;22.185
+Russia;4.48;2008;Russian Federation (the);RU;#N/A
+Russia;5.02;2006;Russian Federation (the);RU;#N/A
+Serbia;6.22;2020;Serbia;RS;20.805
+Serbia;6.41;2019;Serbia;RS;15.522
+Serbia;6.41;2018;Serbia;RS;18.599
+Serbia;6.41;2017;Serbia;RS;20.635
+Serbia;6.57;2016;Serbia;RS;29.859
+Serbia;6.71;2015;Serbia;RS;35.042
+Serbia;6.71;2014;Serbia;RS;36.885
+Serbia;6.67;2013;Serbia;RS;46.676
+Serbia;6.33;2012;Serbia;RS;44.319
+Serbia;6.33;2011;Serbia;RS;47.298
+Serbia;6.33;2010;Serbia;RS;0
+Serbia;6.49;2008;Serbia;RS;#N/A
+Serbia;6.62;2006;Serbia;RS;#N/A
+Slovakia;6.97;2020;Slovakia;SK;8.343
+Slovakia;7.17;2019;Slovakia;SK;9.404
+Slovakia;7.1;2018;Slovakia;SK;10.986
+Slovakia;7.16;2017;Slovakia;SK;10.02
+Slovakia;7.29;2016;Slovakia;SK;10.935
+Slovakia;7.29;2015;Slovakia;SK;11.871
+Slovakia;7.35;2014;Slovakia;SK;13.521
+Slovakia;7.35;2013;Slovakia;SK;17.146
+Slovakia;7.35;2012;Slovakia;SK;21.738
+Slovakia;7.35;2011;Slovakia;SK;38.098
+Slovakia;7.35;2010;Slovakia;SK;12.306
+Slovakia;7.33;2008;Slovakia;SK;#N/A
+Slovakia;7.4;2006;Slovakia;SK;#N/A
+Slovenia;7.54;2020;Slovenia;SI;14.285
+Slovenia;7.5;2019;Slovenia;SI;14.173
+Slovenia;7.5;2018;Slovenia;SI;15.001
+Slovenia;7.5;2017;Slovenia;SI;13.672
+Slovenia;7.51;2016;Slovenia;SI;17.493
+Slovenia;7.57;2015;Slovenia;SI;18.892
+Slovenia;7.57;2014;Slovenia;SI;22.238
+Slovenia;7.88;2013;Slovenia;SI;31.414
+Slovenia;7.88;2012;Slovenia;SI;31.29
+Slovenia;7.76;2011;Slovenia;SI;40.96
+Slovenia;7.69;2010;Slovenia;SI;11.327
+Slovenia;7.96;2008;Slovenia;SI;#N/A
+Slovenia;7.96;2006;Slovenia;SI;#N/A
+Tajikistan;1.94;2020;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;1.93;2019;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;1.93;2018;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;1.93;2017;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;1.89;2016;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;1.95;2015;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;2.37;2014;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;2.51;2013;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;2.51;2012;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;2.51;2011;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;2.51;2010;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;2.45;2008;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Tajikistan;2.45;2006;Tajikistan;TJ;Invalid RIC(s): TJGV10YUSAC=R
+Turkmenistan;1.72;2020;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.72;2019;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.72;2018;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.72;2017;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.83;2016;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.83;2015;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.83;2014;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.72;2013;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.72;2012;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.72;2011;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.72;2010;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.72;2008;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Turkmenistan;1.83;2006;Turkmenistan;TM;Invalid RIC(s): TMGV10YUSAC=R
+Ukraine;5.81;2020;Ukraine;UA;45.013
+Ukraine;5.9;2019;Ukraine;UA;50.597
+Ukraine;5.69;2018;Ukraine;UA;57.738
+Ukraine;5.69;2017;Ukraine;UA;47.923
+Ukraine;5.7;2016;Ukraine;UA;93.174
+Ukraine;5.7;2015;Ukraine;UA;99.41
+Ukraine;5.42;2014;Ukraine;UA;81.789
+Ukraine;5.84;2013;Ukraine;UA;67.755
+Ukraine;5.91;2012;Ukraine;UA;60.985
+Ukraine;5.94;2011;Ukraine;UA;67.838
+Ukraine;6.3;2010;Ukraine;UA;51.96
+Ukraine;6.94;2008;Ukraine;UA;#N/A
+Ukraine;6.94;2006;Ukraine;UA;#N/A
+Uzbekistan;2.12;2020;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;2.01;2019;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;2.01;2018;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.95;2017;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.95;2016;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.95;2015;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;2.45;2014;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.72;2013;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.72;2012;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.74;2011;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.74;2010;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.74;2008;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Uzbekistan;1.85;2006;Uzbekistan;UZ;Invalid RIC(s): UZGV10YUSAC=R
+Argentina;6.95;2020;Argentina;AR;89.478
+Argentina;7.02;2019;Argentina;AR;92.797
+Argentina;7.02;2018;Argentina;AR;65.959
+Argentina;6.96;2017;Argentina;AR;41.183
+Argentina;6.96;2016;Argentina;AR;52.124
+Argentina;7.02;2015;Argentina;AR;#N/A
+Argentina;6.84;2014;Argentina;AR;89.471
+Argentina;6.84;2013;Argentina;AR;79.844
+Argentina;6.84;2012;Argentina;AR;78.733
+Argentina;6.84;2011;Argentina;AR;71.341
+Argentina;6.84;2010;Argentina;AR;57.037
+Argentina;6.63;2008;Argentina;AR;#N/A
+Argentina;6.63;2006;Argentina;AR;#N/A
+Bolivia;5.08;2020;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;4.84;2019;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.7;2018;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.49;2017;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.63;2016;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.75;2015;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.79;2014;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.79;2013;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.84;2012;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.84;2011;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.92;2010;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;6.15;2008;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Bolivia;5.98;2006;Bolivia (Plurinational State of);BO;Invalid RIC(s): BOGV10YUSAC=R
+Brazil;6.92;2020;Brazil;BR;25.462
+Brazil;6.86;2019;Brazil;BR;22.465
+Brazil;6.97;2018;Brazil;BR;32.529
+Brazil;6.86;2017;Brazil;BR;30.472
+Brazil;6.9;2016;Brazil;BR;39.331
+Brazil;6.96;2015;Brazil;BR;53.512
+Brazil;7.38;2014;Brazil;BR;31.089
+Brazil;7.12;2013;Brazil;BR;29.742
+Brazil;7.12;2012;Brazil;BR;18.951
+Brazil;7.12;2011;Brazil;BR;23.293
+Brazil;7.12;2010;Brazil;BR;18.727
+Brazil;7.38;2008;Brazil;BR;#N/A
+Brazil;7.38;2006;Brazil;BR;#N/A
+Chile;8.28;2020;Chile;CL;11.528
+Chile;8.08;2019;Chile;CL;10.617
+Chile;7.97;2018;Chile;CL;13.792
+Chile;7.84;2017;Chile;CL;12.291
+Chile;7.78;2016;Chile;CL;16.432
+Chile;7.84;2015;Chile;CL;20.346
+Chile;7.8;2014;Chile;CL;17.641
+Chile;7.8;2013;Chile;CL;15.047
+Chile;7.54;2012;Chile;CL;12.928
+Chile;7.54;2011;Chile;CL;19.568
+Chile;7.67;2010;Chile;CL;14.983
+Chile;7.89;2008;Chile;CL;#N/A
+Chile;7.89;2006;Chile;CL;#N/A
+Colombia;7.04;2020;Colombia;CO;18.575
+Colombia;7.13;2019;Colombia;CO;18.236
+Colombia;6.96;2018;Colombia;CO;27.692
+Colombia;6.67;2017;Colombia;CO;24.277
+Colombia;6.67;2016;Colombia;CO;28.71
+Colombia;6.62;2015;Colombia;CO;33.453
+Colombia;6.55;2014;Colombia;CO;24.641
+Colombia;6.55;2013;Colombia;CO;21.49
+Colombia;6.63;2012;Colombia;CO;17.43
+Colombia;6.63;2011;Colombia;CO;23.191
+Colombia;6.55;2010;Colombia;CO;18.722
+Colombia;6.54;2008;Colombia;CO;#N/A
+Colombia;6.4;2006;Colombia;CO;#N/A
+Costa Rica;8.16;2020;Costa Rica;CR;43.806
+Costa Rica;8.13;2019;Costa Rica;CR;42.728
+Costa Rica;8.07;2018;Costa Rica;CR;43.587
+Costa Rica;7.88;2017;Costa Rica;CR;42.578
+Costa Rica;7.88;2016;Costa Rica;CR;42.267
+Costa Rica;7.96;2015;Costa Rica;CR;45.378
+Costa Rica;8.03;2014;Costa Rica;CR;37.103
+Costa Rica;8.03;2013;Costa Rica;CR;32.589
+Costa Rica;8.1;2012;Costa Rica;CR;28.521
+Costa Rica;8.1;2011;Costa Rica;CR;29.213
+Costa Rica;8.04;2010;Costa Rica;CR;22.607
+Costa Rica;8.04;2008;Costa Rica;CR;#N/A
+Costa Rica;8.04;2006;Costa Rica;CR;#N/A
+Cuba;2.84;2020;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;2.84;2019;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3;2018;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.31;2017;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.46;2016;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.52;2015;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.52;2014;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.52;2013;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.52;2012;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.52;2011;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.52;2010;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.52;2008;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Cuba;3.52;2006;Cuba;CU;Invalid RIC(s): CUGV10YUSAC=R
+Dominican Republic;6.32;2020;Dominican Republic (the);DO;38.888
+Dominican Republic;6.54;2019;Dominican Republic (the);DO;38.198
+Dominican Republic;6.54;2018;Dominican Republic (the);DO;40.887
+Dominican Republic;6.66;2017;Dominican Republic (the);DO;38.19
+Dominican Republic;6.67;2016;Dominican Republic (the);DO;42.238
+Dominican Republic;6.67;2015;Dominican Republic (the);DO;37.05
+Dominican Republic;6.67;2014;Dominican Republic (the);DO;42.275
+Dominican Republic;6.74;2013;Dominican Republic (the);DO;44.598
+Dominican Republic;6.49;2012;Dominican Republic (the);DO;39.944
+Dominican Republic;6.2;2011;Dominican Republic (the);DO;43.775
+Dominican Republic;6.2;2010;Dominican Republic (the);DO;31.17
+Dominican Republic;6.2;2008;Dominican Republic (the);DO;#N/A
+Dominican Republic;6.13;2006;Dominican Republic (the);DO;#N/A
+Ecuador;6.13;2020;Ecuador;EC;97.826
+Ecuador;6.33;2019;Ecuador;EC;75.619
+Ecuador;6.27;2018;Ecuador;EC;57.509
+Ecuador;6.02;2017;Ecuador;EC;57.699
+Ecuador;5.81;2016;Ecuador;EC;#N/A
+Ecuador;5.87;2015;Ecuador;EC;#N/A
+Ecuador;5.87;2014;Ecuador;EC;#N/A
+Ecuador;5.87;2013;Ecuador;EC;#N/A
+Ecuador;5.78;2012;Ecuador;EC;#N/A
+Ecuador;5.72;2011;Ecuador;EC;#N/A
+Ecuador;5.77;2010;Ecuador;EC;#N/A
+Ecuador;5.64;2008;Ecuador;EC;#N/A
+Ecuador;5.64;2006;Ecuador;EC;#N/A
+El Salvador;5.9;2020;El Salvador;SV;41.889
+El Salvador;6.15;2019;El Salvador;SV;41.677
+El Salvador;5.96;2018;El Salvador;SV;43.243
+El Salvador;6.43;2017;El Salvador;SV;42.5
+El Salvador;6.64;2016;El Salvador;SV;41.036
+El Salvador;6.64;2015;El Salvador;SV;47.577
+El Salvador;6.53;2014;El Salvador;SV;47.368
+El Salvador;6.53;2013;El Salvador;SV;48.41
+El Salvador;6.47;2012;El Salvador;SV;44.065
+El Salvador;6.47;2011;El Salvador;SV;45.068
+El Salvador;6.47;2010;El Salvador;SV;29.374
+El Salvador;6.4;2008;El Salvador;SV;#N/A
+El Salvador;6.22;2006;El Salvador;SV;#N/A
+Guatemala;4.97;2020;Guatemala;GT;38.272
+Guatemala;5.26;2019;Guatemala;GT;39.736
+Guatemala;5.6;2018;Guatemala;GT;38.575
+Guatemala;5.86;2017;Guatemala;GT;39.202
+Guatemala;5.92;2016;Guatemala;GT;42.705
+Guatemala;5.92;2015;Guatemala;GT;43.871
+Guatemala;5.81;2014;Guatemala;GT;33.979
+Guatemala;5.81;2013;Guatemala;GT;31.001
+Guatemala;5.88;2012;Guatemala;GT;29.934
+Guatemala;5.88;2011;Guatemala;GT;30.46
+Guatemala;6.05;2010;Guatemala;GT;22.301
+Guatemala;6.07;2008;Guatemala;GT;#N/A
+Guatemala;6.07;2006;Guatemala;GT;#N/A
+Guyana;6.01;2020;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.15;2019;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.67;2018;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.46;2017;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.25;2016;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.05;2015;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;5.91;2014;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.05;2013;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.05;2012;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.05;2011;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.05;2010;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.12;2008;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Guyana;6.15;2006;Guyana;GY;Invalid RIC(s): GYGV10YUSAC=R
+Haiti;4.22;2020;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;4.57;2019;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;4.91;2018;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;4.03;2017;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;4.02;2016;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;3.94;2015;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;3.82;2014;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;3.94;2013;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;3.96;2012;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;4;2011;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;4;2010;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;4.19;2008;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Haiti;4.19;2006;Haiti;HT;Invalid RIC(s): HTGV10YUSAC=R
+Honduras;5.36;2020;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.42;2019;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.63;2018;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.72;2017;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.92;2016;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.84;2015;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.84;2014;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.84;2013;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.84;2012;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.84;2011;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;5.76;2010;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;6.18;2008;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Honduras;6.25;2006;Honduras;HN;Invalid RIC(s): HNGV10YUSAC=R
+Jamaica;7.13;2020;Jamaica;JM;37.269
+Jamaica;6.96;2019;Jamaica;JM;41.837
+Jamaica;7.02;2018;Jamaica;JM;40.211
+Jamaica;7.29;2017;Jamaica;JM;41.007
+Jamaica;7.39;2016;Jamaica;JM;39.889
+Jamaica;7.39;2015;Jamaica;JM;46.311
+Jamaica;7.39;2014;Jamaica;JM;66.505
+Jamaica;7.39;2013;Jamaica;JM;63.951
+Jamaica;7.39;2012;Jamaica;JM;62.124
+Jamaica;7.13;2011;Jamaica;JM;57.215
+Jamaica;7.21;2010;Jamaica;JM;66.577
+Jamaica;7.21;2008;Jamaica;JM;#N/A
+Jamaica;7.34;2006;Jamaica;JM;#N/A
+Mexico;6.07;2020;Mexico;MX;18.256
+Mexico;6.09;2019;Mexico;MX;18.96
+Mexico;6.19;2018;Mexico;MX;28.079
+Mexico;6.41;2017;Mexico;MX;22.619
+Mexico;6.47;2016;Mexico;MX;26.359
+Mexico;6.55;2015;Mexico;MX;26.67
+Mexico;6.68;2014;Mexico;MX;20.071
+Mexico;6.91;2013;Mexico;MX;18.784
+Mexico;6.9;2012;Mexico;MX;17.735
+Mexico;6.93;2011;Mexico;MX;22.52
+Mexico;6.93;2010;Mexico;MX;18.387
+Mexico;6.78;2008;Mexico;MX;#N/A
+Mexico;6.67;2006;Mexico;MX;#N/A
+Nicaragua;3.6;2020;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;3.55;2019;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;3.63;2018;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;4.66;2017;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;4.81;2016;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;5.26;2015;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;5.32;2014;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;5.46;2013;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;5.56;2012;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;5.56;2011;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;5.73;2010;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;6.07;2008;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Nicaragua;5.68;2006;Nicaragua;NI;Invalid RIC(s): NIGV10YUSAC=R
+Panama;7.18;2020;Panama;PA;12.181
+Panama;7.05;2019;Panama;PA;12.049
+Panama;7.05;2018;Panama;PA;17.861
+Panama;7.08;2017;Panama;PA;17.01
+Panama;7.13;2016;Panama;PA;24.175
+Panama;7.19;2015;Panama;PA;27.71
+Panama;7.08;2014;Panama;PA;20.855
+Panama;7.08;2013;Panama;PA;20.229
+Panama;7.08;2012;Panama;PA;17.542
+Panama;7.08;2011;Panama;PA;22.348
+Panama;7.15;2010;Panama;PA;16.75
+Panama;7.35;2008;Panama;PA;#N/A
+Panama;7.35;2006;Panama;PA;#N/A
+Paraguay;6.18;2020;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.24;2019;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.24;2018;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.31;2017;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.27;2016;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.33;2015;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.26;2014;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.26;2013;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.26;2012;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.4;2011;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.4;2010;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.4;2008;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Paraguay;6.16;2006;Paraguay;PY;Invalid RIC(s): PYGV10YUSAC=R
+Peru;6.53;2020;Peru;PE;13.255
+Peru;6.6;2019;Peru;PE;12.279
+Peru;6.6;2018;Peru;PE;19.773
+Peru;6.49;2017;Peru;PE;17.937
+Peru;6.65;2016;Peru;PE;21.194
+Peru;6.58;2015;Peru;PE;28.75
+Peru;6.54;2014;Peru;PE;21.672
+Peru;6.54;2013;Peru;PE;22.698
+Peru;6.47;2012;Peru;PE;17.632
+Peru;6.59;2011;Peru;PE;24.724
+Peru;6.4;2010;Peru;PE;19.381
+Peru;6.31;2008;Peru;PE;#N/A
+Peru;6.11;2006;Peru;PE;#N/A
+Suriname;6.82;2020;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.98;2019;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.98;2018;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.76;2017;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.77;2016;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.77;2015;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.77;2014;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.77;2013;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.65;2012;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.65;2011;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.65;2010;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.58;2008;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Suriname;6.52;2006;Suriname;SR;Invalid RIC(s): SRGV10YUSAC=R
+Trinidad and Tobago;7.16;2020;Trinidad and Tobago;TT;15.992
+Trinidad and Tobago;7.16;2019;Trinidad and Tobago;TT;12.545
+Trinidad and Tobago;7.16;2018;Trinidad and Tobago;TT;23.063
+Trinidad and Tobago;7.04;2017;Trinidad and Tobago;TT;15.729
+Trinidad and Tobago;7.1;2016;Trinidad and Tobago;TT;20.545
+Trinidad and Tobago;7.1;2015;Trinidad and Tobago;TT;18.101
+Trinidad and Tobago;6.99;2014;Trinidad and Tobago;TT;22.197
+Trinidad and Tobago;6.99;2013;Trinidad and Tobago;TT;25.481
+Trinidad and Tobago;6.99;2012;Trinidad and Tobago;TT;17.754
+Trinidad and Tobago;7.16;2011;Trinidad and Tobago;TT;18.336
+Trinidad and Tobago;7.16;2010;Trinidad and Tobago;TT;16.629
+Trinidad and Tobago;7.21;2008;Trinidad and Tobago;TT;#N/A
+Trinidad and Tobago;7.18;2006;Trinidad and Tobago;TT;#N/A
+Uruguay;8.61;2020;Uruguay;UY;27.5
+Uruguay;8.38;2019;Uruguay;UY;23.713
+Uruguay;8.38;2018;Uruguay;UY;28.124
+Uruguay;8.12;2017;Uruguay;UY;26.26
+Uruguay;8.17;2016;Uruguay;UY;24.31
+Uruguay;8.17;2015;Uruguay;UY;53.045
+Uruguay;8.17;2014;Uruguay;UY;29.966
+Uruguay;8.17;2013;Uruguay;UY;27.269
+Uruguay;8.17;2012;Uruguay;UY;20.395
+Uruguay;8.17;2011;Uruguay;UY;32.947
+Uruguay;8.1;2010;Uruguay;UY;22.252
+Uruguay;8.08;2008;Uruguay;UY;#N/A
+Uruguay;7.96;2006;Uruguay;UY;#N/A
+Venezuela;2.76;2020;Venezuela (Bolivarian Republic of);VE;#N/A
+Venezuela;2.88;2019;Venezuela (Bolivarian Republic of);VE;#N/A
+Venezuela;3.16;2018;Venezuela (Bolivarian Republic of);VE;#N/A
+Venezuela;3.87;2017;Venezuela (Bolivarian Republic of);VE;97.08
+Venezuela;4.68;2016;Venezuela (Bolivarian Republic of);VE;93.352
+Venezuela;5;2015;Venezuela (Bolivarian Republic of);VE;96.56
+Venezuela;5.07;2014;Venezuela (Bolivarian Republic of);VE;91.229
+Venezuela;5.07;2013;Venezuela (Bolivarian Republic of);VE;74.625
+Venezuela;5.15;2012;Venezuela (Bolivarian Republic of);VE;57.72
+Venezuela;5.08;2011;Venezuela (Bolivarian Republic of);VE;69.771
+Venezuela;5.18;2010;Venezuela (Bolivarian Republic of);VE;71.344
+Venezuela;5.34;2008;Venezuela (Bolivarian Republic of);VE;#N/A
+Venezuela;5.42;2006;Venezuela (Bolivarian Republic of);VE;#N/A
+Afghanistan;2.85;2020;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.85;2019;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.97;2018;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.55;2017;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.55;2016;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.77;2015;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.77;2014;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.48;2013;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.48;2012;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.48;2011;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;2.48;2010;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;3.02;2008;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Afghanistan;3.06;2006;Afghanistan;AF;Invalid RIC(s): AFGV10YUSAC=R
+Australia;8.96;2020;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.09;2019;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.09;2018;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.09;2017;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.01;2016;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.01;2015;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.01;2014;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.13;2013;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.22;2012;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.22;2011;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.22;2010;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.09;2008;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Australia;9.09;2006;Australia;AU;Invalid RIC(s): AUGV10YUSAC=R
+Bangladesh;5.99;2020;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.88;2019;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.57;2018;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.43;2017;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.73;2016;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.73;2015;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.78;2014;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.86;2013;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.86;2012;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.86;2011;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.87;2010;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;5.52;2008;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bangladesh;6.11;2006;Bangladesh;BD;Invalid RIC(s): BDGV10YUSAC=R
+Bhutan;5.71;2020;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;5.3;2019;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;5.3;2018;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;5.08;2017;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;4.93;2016;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;4.93;2015;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;4.87;2014;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;4.82;2013;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;4.65;2012;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;4.57;2011;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;4.68;2010;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;4.3;2008;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Bhutan;2.62;2006;Bhutan;BT;Invalid RIC(s): BTGV10YUSAC=R
+Cambodia;3.1;2020;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;3.53;2019;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;3.59;2018;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;3.63;2017;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.27;2016;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.27;2015;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.78;2014;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.6;2013;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.96;2012;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.87;2011;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.87;2010;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.87;2008;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+Cambodia;4.77;2006;Cambodia;KH;Invalid RIC(s): KHGV10YUSAC=R
+China;2.27;2020;China;CN;9.662
+China;2.26;2019;China;CN;11.857
+China;3.32;2018;China;CN;18.036
+China;3.1;2017;China;CN;14.517
+China;3.14;2016;China;CN;25.565
+China;3.14;2015;China;CN;23.926
+China;3;2014;China;CN;21.659
+China;3;2013;China;CN;16.35
+China;3;2012;China;CN;15.227
+China;3.14;2011;China;CN;23.643
+China;3.14;2010;China;CN;15.044
+China;3.04;2008;China;CN;#N/A
+China;2.97;2006;China;CN;#N/A
+Fiji;5.72;2020;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;5.85;2019;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;5.85;2018;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;5.85;2017;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;5.64;2016;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;5.69;2015;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;5.61;2014;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;3.61;2013;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;3.67;2012;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;3.67;2011;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;3.62;2010;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;5.11;2008;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Fiji;5.66;2006;Fiji;FJ;Invalid RIC(s): FJGV10YUSAC=R
+Hong Kong;5.57;2020;Hong Kong;HK;10.4
+Hong Kong;6.02;2019;Hong Kong;HK;10.755
+Hong Kong;6.15;2018;Hong Kong;HK;10.186
+Hong Kong;6.31;2017;Hong Kong;HK;9.452
+Hong Kong;6.42;2016;Hong Kong;HK;9.719
+Hong Kong;6.5;2015;Hong Kong;HK;13.647
+Hong Kong;6.46;2014;Hong Kong;HK;10.411
+Hong Kong;6.42;2013;Hong Kong;HK;9.114
+Hong Kong;6.42;2012;Hong Kong;HK;10.639
+Hong Kong;5.92;2011;Hong Kong;HK;15.272
+Hong Kong;5.92;2010;Hong Kong;HK;8.961
+Hong Kong;5.85;2008;Hong Kong;HK;#N/A
+Hong Kong;6.03;2006;Hong Kong;HK;#N/A
+India;6.61;2020;India;IN;13.527
+India;6.9;2019;India;IN;13.27
+India;7.23;2018;India;IN;14.448
+India;7.23;2017;India;IN;14.144
+India;7.81;2016;India;IN;21.813
+India;7.74;2015;India;IN;24.311
+India;7.92;2014;India;IN;#N/A
+India;7.69;2013;India;IN;#N/A
+India;7.52;2012;India;IN;#N/A
+India;7.3;2011;India;IN;#N/A
+India;7.28;2010;India;IN;#N/A
+India;7.8;2008;India;IN;#N/A
+India;7.68;2006;India;IN;#N/A
+Indonesia;6.3;2020;Indonesia;ID;20.313
+Indonesia;6.48;2019;Indonesia;ID;21.009
+Indonesia;6.39;2018;Indonesia;ID;31.829
+Indonesia;6.39;2017;Indonesia;ID;23.97
+Indonesia;6.97;2016;Indonesia;ID;33.118
+Indonesia;7.03;2015;Indonesia;ID;41.987
+Indonesia;6.95;2014;Indonesia;ID;34.436
+Indonesia;6.82;2013;Indonesia;ID;36.584
+Indonesia;6.76;2012;Indonesia;ID;25.318
+Indonesia;6.53;2011;Indonesia;ID;30.903
+Indonesia;6.53;2010;Indonesia;ID;27.939
+Indonesia;6.34;2008;Indonesia;ID;#N/A
+Indonesia;6.41;2006;Indonesia;ID;#N/A
+Japan;8.13;2020;Japan;JP;4.176
+Japan;7.99;2019;Japan;JP;5.961
+Japan;7.99;2018;Japan;JP;6.202
+Japan;7.88;2017;Japan;JP;7.355
+Japan;7.99;2016;Japan;JP;8.852
+Japan;7.96;2015;Japan;JP;13.752
+Japan;8.08;2014;Japan;JP;17.45
+Japan;8.08;2013;Japan;JP;#N/A
+Japan;8.08;2012;Japan;JP;#N/A
+Japan;8.08;2011;Japan;JP;#N/A
+Japan;8.08;2010;Japan;JP;#N/A
+Japan;8.25;2008;Japan;JP;#N/A
+Japan;8.15;2006;Japan;JP;#N/A
+Laos;1.77;2020;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.14;2019;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.37;2018;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.37;2017;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.37;2016;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.21;2015;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.21;2014;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.21;2013;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.32;2012;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.1;2011;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.1;2010;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.1;2008;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Laos;2.1;2006;Lao People's Democratic Republic (the);LA;Invalid RIC(s): LAGV10YUSAC=R
+Malaysia;7.19;2020;Malaysia;MY;11.569
+Malaysia;7.16;2019;Malaysia;MY;13.039
+Malaysia;6.88;2018;Malaysia;MY;26.023
+Malaysia;6.54;2017;Malaysia;MY;17.222
+Malaysia;6.54;2016;Malaysia;MY;28.513
+Malaysia;6.43;2015;Malaysia;MY;34.872
+Malaysia;6.49;2014;Malaysia;MY;25.127
+Malaysia;6.49;2013;Malaysia;MY;20.643
+Malaysia;6.41;2012;Malaysia;MY;16.209
+Malaysia;6.19;2011;Malaysia;MY;23.745
+Malaysia;6.19;2010;Malaysia;MY;14.65
+Malaysia;6.36;2008;Malaysia;MY;#N/A
+Malaysia;5.98;2006;Malaysia;MY;#N/A
+Mongolia;6.48;2020;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.5;2019;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.5;2018;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.5;2017;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.62;2016;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.62;2015;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.62;2014;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.51;2013;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.35;2012;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.23;2011;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.36;2010;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.6;2008;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Mongolia;6.6;2006;Mongolia;MN;Invalid RIC(s): MNGV10YUSAC=R
+Myanmar;3.04;2020;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;3.55;2019;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;3.83;2018;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;3.83;2017;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;4.2;2016;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;4.14;2015;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;3.05;2014;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;2.76;2013;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;2.35;2012;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;1.77;2011;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;1.77;2010;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;1.77;2008;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Myanmar;1.77;2006;Myanmar;MM;Invalid RIC(s): MMGV10YUSAC=R
+Nepal;5.22;2020;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;5.28;2019;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;5.18;2018;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;5.18;2017;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;4.86;2016;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;4.77;2015;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;4.77;2014;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;4.77;2013;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;4.16;2012;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;4.24;2011;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;4.24;2010;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;4.05;2008;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+Nepal;3.42;2006;Nepal;NP;Invalid RIC(s): NPGV10YUSAC=R
+New Zealand;9.25;2020;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2019;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2018;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2017;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2016;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2015;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2014;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2013;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2012;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2011;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.26;2010;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.19;2008;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+New Zealand;9.01;2006;New Zealand;NZ;Invalid RIC(s): NZGV10YUSAC=R
+North Korea;1.08;2020;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2019;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2018;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2017;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2016;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2015;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2014;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2013;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2012;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2011;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.08;2010;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;0.86;2008;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+North Korea;1.03;2006;Korea (the Democratic People's Republic of);KP;Invalid RIC(s): KPGV10YUSAC=R
+Pakistan;4.31;2020;Pakistan;PK;57.625
+Pakistan;4.25;2019;Pakistan;PK;57.237
+Pakistan;4.17;2018;Pakistan;PK;57.231
+Pakistan;4.26;2017;Pakistan;PK;56.952
+Pakistan;4.33;2016;Pakistan;PK;57.203
+Pakistan;4.4;2015;Pakistan;PK;57.159
+Pakistan;4.64;2014;Pakistan;PK;68.588
+Pakistan;4.64;2013;Pakistan;PK;71.316
+Pakistan;4.57;2012;Pakistan;PK;72.637
+Pakistan;4.55;2011;Pakistan;PK;74.186
+Pakistan;4.55;2010;Pakistan;PK;70.879
+Pakistan;4.46;2008;Pakistan;PK;#N/A
+Pakistan;3.92;2006;Pakistan;PK;#N/A
+Papua New Guinea;6.1;2020;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.03;2019;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.03;2018;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.03;2017;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.03;2016;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.03;2015;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.03;2014;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.36;2013;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.32;2012;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.32;2011;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.54;2010;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.54;2008;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Papua New Guinea;6.54;2006;Papua New Guinea;PG;Invalid RIC(s): PGGV10YUSAC=R
+Philippines;6.56;2020;Philippines (the);PH;11.569
+Philippines;6.64;2019;Philippines (the);PH;12.324
+Philippines;6.71;2018;Philippines (the);PH;21.852
+Philippines;6.71;2017;Philippines (the);PH;17.351
+Philippines;6.94;2016;Philippines (the);PH;25.351
+Philippines;6.84;2015;Philippines (the);PH;25.247
+Philippines;6.77;2014;Philippines (the);PH;23.719
+Philippines;6.41;2013;Philippines (the);PH;21.056
+Philippines;6.3;2012;Philippines (the);PH;18.738
+Philippines;6.12;2011;Philippines (the);PH;26.781
+Philippines;6.12;2010;Philippines (the);PH;22.754
+Philippines;6.12;2008;Philippines (the);PH;#N/A
+Philippines;6.48;2006;Philippines (the);PH;#N/A
+Singapore;6.03;2020;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;6.02;2019;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;6.38;2018;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;6.32;2017;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;6.38;2016;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;6.14;2015;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;6.03;2014;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;5.92;2013;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;5.88;2012;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;5.89;2011;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;5.89;2010;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;5.89;2008;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+Singapore;5.89;2006;Singapore;SG;Invalid RIC(s): SGGV10YUSAC=R
+South Korea;8.01;2020;Korea (the Republic of);KR;7.302
+South Korea;8;2019;Korea (the Republic of);KR;7.879
+South Korea;8;2018;Korea (the Republic of);KR;10.398
+South Korea;8;2017;Korea (the Republic of);KR;12.121
+South Korea;7.92;2016;Korea (the Republic of);KR;11.366
+South Korea;7.97;2015;Korea (the Republic of);KR;12.983
+South Korea;8.06;2014;Korea (the Republic of);KR;13.454
+South Korea;8.06;2013;Korea (the Republic of);KR;13.358
+South Korea;8.13;2012;Korea (the Republic of);KR;14.044
+South Korea;8.06;2011;Korea (the Republic of);KR;24.98
+South Korea;8.11;2010;Korea (the Republic of);KR;18.584
+South Korea;8.01;2008;Korea (the Republic of);KR;#N/A
+South Korea;7.88;2006;Korea (the Republic of);KR;#N/A
+Sri Lanka;6.14;2020;Sri Lanka;LK;88.981
+Sri Lanka;6.27;2019;Sri Lanka;LK;50.594
+Sri Lanka;6.19;2018;Sri Lanka;LK;53.437
+Sri Lanka;6.48;2017;Sri Lanka;LK;42.646
+Sri Lanka;6.48;2016;Sri Lanka;LK;42.315
+Sri Lanka;6.42;2015;Sri Lanka;LK;42.369
+Sri Lanka;5.69;2014;Sri Lanka;LK;42.131
+Sri Lanka;5.69;2013;Sri Lanka;LK;37.564
+Sri Lanka;5.75;2012;Sri Lanka;LK;37.003
+Sri Lanka;6.58;2011;Sri Lanka;LK;39.902
+Sri Lanka;6.64;2010;Sri Lanka;LK;#N/A
+Sri Lanka;6.61;2008;Sri Lanka;LK;#N/A
+Sri Lanka;6.58;2006;Sri Lanka;LK;#N/A
+Taiwan;8.94;2020;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.73;2019;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.73;2018;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.73;2017;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.79;2016;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.83;2015;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.65;2014;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.57;2013;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.57;2012;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.46;2011;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.52;2010;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.82;2008;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Taiwan;7.82;2006;Taiwan (Province of China);TW;Invalid RIC(s): TWGV10YUSAC=R
+Thailand;6.04;2020;Thailand;TH;10.729
+Thailand;6.32;2019;Thailand;TH;7.968
+Thailand;4.63;2018;Thailand;TH;13.505
+Thailand;4.63;2017;Thailand;TH;14.02
+Thailand;4.92;2016;Thailand;TH;20.678
+Thailand;5.09;2015;Thailand;TH;28.937
+Thailand;5.39;2014;Thailand;TH;24.413
+Thailand;6.25;2013;Thailand;TH;21.795
+Thailand;6.55;2012;Thailand;TH;18.23
+Thailand;6.55;2011;Thailand;TH;27.923
+Thailand;6.55;2010;Thailand;TH;18.883
+Thailand;6.81;2008;Thailand;TH;#N/A
+Thailand;5.67;2006;Thailand;TH;#N/A
+Timor Leste;7.06;2020;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.19;2019;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.19;2018;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.19;2017;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.24;2016;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.24;2015;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.24;2014;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.24;2013;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.16;2012;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.22;2011;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.22;2010;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;7.22;2008;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Timor Leste;6.41;2006;Timor-Leste;TL;Invalid RIC(s): TLGV10YUSAC=R
+Vietnam;2.94;2020;Viet Nam;VN;24.361
+Vietnam;3.08;2019;Viet Nam;VN;24.342
+Vietnam;3.08;2018;Viet Nam;VN;33.717
+Vietnam;3.08;2017;Viet Nam;VN;27.824
+Vietnam;3.38;2016;Viet Nam;VN;36.927
+Vietnam;3.53;2015;Viet Nam;VN;45.558
+Vietnam;3.41;2014;Viet Nam;VN;37.761
+Vietnam;3.29;2013;Viet Nam;VN;38.848
+Vietnam;2.89;2012;Viet Nam;VN;33.066
+Vietnam;2.96;2011;Viet Nam;VN;46.559
+Vietnam;2.94;2010;Viet Nam;VN;44.731
+Vietnam;2.53;2008;Viet Nam;VN;#N/A
+Vietnam;2.75;2006;Viet Nam;VN;#N/A
+Algeria;3.77;2020;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;4.01;2019;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.5;2018;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.56;2017;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.56;2016;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.95;2015;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.83;2014;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.83;2013;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.83;2012;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.44;2011;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.44;2010;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.32;2008;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Algeria;3.17;2006;Algeria;DZ;Invalid RIC(s): DZGV10YUSAC=R
+Bahrain;2.49;2020;Bahrain;BH;53.557
+Bahrain;2.55;2019;Bahrain;BH;25.866
+Bahrain;2.71;2018;Bahrain;BH;36.537
+Bahrain;2.71;2017;Bahrain;BH;36.645
+Bahrain;2.79;2016;Bahrain;BH;36.673
+Bahrain;2.79;2015;Bahrain;BH;40.312
+Bahrain;2.87;2014;Bahrain;BH;30.996
+Bahrain;2.87;2013;Bahrain;BH;31.119
+Bahrain;2.53;2012;Bahrain;BH;28.088
+Bahrain;2.92;2011;Bahrain;BH;42.687
+Bahrain;3.49;2010;Bahrain;BH;23.152
+Bahrain;3.38;2008;Bahrain;BH;#N/A
+Bahrain;3.53;2006;Bahrain;BH;#N/A
+Egypt;2.93;2020;Egypt;EG;46.749
+Egypt;3.06;2019;Egypt;EG;40.201
+Egypt;3.36;2018;Egypt;EG;43.515
+Egypt;3.36;2017;Egypt;EG;42.27
+Egypt;3.31;2016;Egypt;EG;46.996
+Egypt;3.18;2015;Egypt;EG;47.891
+Egypt;3.16;2014;Egypt;EG;35.444
+Egypt;3.27;2013;Egypt;EG;56.936
+Egypt;4.56;2012;Egypt;EG;48.251
+Egypt;3.95;2011;Egypt;EG;57.871
+Egypt;3.07;2010;Egypt;EG;31.976
+Egypt;3.89;2008;Egypt;EG;#N/A
+Egypt;3.9;2006;Egypt;EG;#N/A
+Iran;2.2;2020;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;2.38;2019;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;2.45;2018;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;2.45;2017;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;2.34;2016;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;2.16;2015;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;1.98;2014;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;1.98;2013;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;1.98;2012;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;1.98;2011;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;1.94;2010;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;2.83;2008;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iran;2.93;2006;Iran (Islamic Republic of);IR;Invalid RIC(s): IRGV10YUSAC=R
+Iraq;3.62;2020;Iraq;IQ;69.874
+Iraq;3.74;2019;Iraq;IQ;69.295
+Iraq;4.06;2018;Iraq;IQ;69.135
+Iraq;4.09;2017;Iraq;IQ;49.834
+Iraq;4.08;2016;Iraq;IQ;#N/A
+Iraq;4.08;2015;Iraq;IQ;46.378
+Iraq;4.23;2014;Iraq;IQ;46.579
+Iraq;4.1;2013;Iraq;IQ;50.124
+Iraq;4.1;2012;Iraq;IQ;41.62
+Iraq;4.03;2011;Iraq;IQ;42.547
+Iraq;4;2010;Iraq;IQ;40.756
+Iraq;4;2008;Iraq;IQ;#N/A
+Iraq;4.01;2006;Iraq;IQ;#N/A
+Israel;7.84;2020;Israel;IL;8.589
+Israel;7.86;2019;Israel;IL;10.136
+Israel;7.79;2018;Israel;IL;13.27
+Israel;7.79;2017;Israel;IL;12.083
+Israel;7.85;2016;Israel;IL;14.397
+Israel;7.77;2015;Israel;IL;14.958
+Israel;7.63;2014;Israel;IL;15.305
+Israel;7.53;2013;Israel;IL;18.684
+Israel;7.53;2012;Israel;IL;20.427
+Israel;7.53;2011;Israel;IL;25.962
+Israel;7.48;2010;Israel;IL;17.094
+Israel;7.48;2008;Israel;IL;#N/A
+Israel;7.28;2006;Israel;IL;#N/A
+Jordan;3.62;2020;Jordan;JO;37.416
+Jordan;3.93;2019;Jordan;JO;37.377
+Jordan;3.93;2018;Jordan;JO;37.29
+Jordan;3.87;2017;Jordan;JO;37.218
+Jordan;3.96;2016;Jordan;JO;37.653
+Jordan;3.86;2015;Jordan;JO;#N/A
+Jordan;3.76;2014;Jordan;JO;#N/A
+Jordan;3.76;2013;Jordan;JO;#N/A
+Jordan;3.76;2012;Jordan;JO;#N/A
+Jordan;3.89;2011;Jordan;JO;#N/A
+Jordan;3.74;2010;Jordan;JO;#N/A
+Jordan;3.93;2008;Jordan;JO;#N/A
+Jordan;3.92;2006;Jordan;JO;#N/A
+Kuwait;3.8;2020;Kuwait;KW;10.072
+Kuwait;3.93;2019;Kuwait;KW;15.054
+Kuwait;3.85;2018;Kuwait;KW;15.303
+Kuwait;3.85;2017;Kuwait;KW;14.908
+Kuwait;3.85;2016;Kuwait;KW;#N/A
+Kuwait;3.85;2015;Kuwait;KW;#N/A
+Kuwait;3.78;2014;Kuwait;KW;#N/A
+Kuwait;3.78;2013;Kuwait;KW;#N/A
+Kuwait;3.78;2012;Kuwait;KW;#N/A
+Kuwait;3.74;2011;Kuwait;KW;#N/A
+Kuwait;3.88;2010;Kuwait;KW;#N/A
+Kuwait;3.39;2008;Kuwait;KW;#N/A
+Kuwait;3.09;2006;Kuwait;KW;#N/A
+Lebanon;4.16;2020;Lebanon;LB;98.563
+Lebanon;4.36;2019;Lebanon;LB;90.777
+Lebanon;4.63;2018;Lebanon;LB;61.694
+Lebanon;4.72;2017;Lebanon;LB;52.808
+Lebanon;4.86;2016;Lebanon;LB;51.213
+Lebanon;4.86;2015;Lebanon;LB;46.01
+Lebanon;5.12;2014;Lebanon;LB;43.368
+Lebanon;5.05;2013;Lebanon;LB;45.575
+Lebanon;5.05;2012;Lebanon;LB;48.074
+Lebanon;5.32;2011;Lebanon;LB;49.37
+Lebanon;5.82;2010;Lebanon;LB;34.72
+Lebanon;5.62;2008;Lebanon;LB;#N/A
+Lebanon;5.82;2006;Lebanon;LB;#N/A
+Libya;1.95;2020;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;2.02;2019;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;2.19;2018;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;2.32;2017;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;2.25;2016;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;2.25;2015;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;3.8;2014;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;4.82;2013;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;5.15;2012;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;3.55;2011;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;1.94;2010;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;2;2008;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Libya;1.84;2006;Libya;LY;Invalid RIC(s): LYGV10YUSAC=R
+Morocco;5.04;2020;Morocco;MA;19.899
+Morocco;5.1;2019;Morocco;MA;14.727
+Morocco;4.99;2018;Morocco;MA;18.922
+Morocco;4.87;2017;Morocco;MA;20.008
+Morocco;4.77;2016;Morocco;MA;23.673
+Morocco;4.66;2015;Morocco;MA;25.488
+Morocco;4;2014;Morocco;MA;24.818
+Morocco;4.07;2013;Morocco;MA;29.946
+Morocco;4.07;2012;Morocco;MA;30.414
+Morocco;3.83;2011;Morocco;MA;32.385
+Morocco;3.79;2010;Morocco;MA;18.408
+Morocco;3.88;2008;Morocco;MA;#N/A
+Morocco;3.9;2006;Morocco;MA;#N/A
+Oman;3;2020;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.06;2019;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.04;2018;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.04;2017;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.04;2016;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.04;2015;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.15;2014;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.26;2013;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.26;2012;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;3.26;2011;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;2.86;2010;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;2.98;2008;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Oman;2.77;2006;Oman;OM;Invalid RIC(s): OMGV10YUSAC=R
+Palestine;3.83;2020;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;3.89;2019;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;4.39;2018;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;4.46;2017;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;4.49;2016;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;4.57;2015;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;4.72;2014;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;4.8;2013;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;4.8;2012;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;4.97;2011;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;5.44;2010;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;5.83;2008;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Palestine;6.01;2006;Palestine, State of;PS;Invalid RIC(s): PSGV10YUSAC=R
+Qatar;3.24;2020;Qatar;QA;10.364
+Qatar;3.19;2019;Qatar;QA;10.024
+Qatar;3.19;2018;Qatar;QA;16.321
+Qatar;3.19;2017;Qatar;QA;18.196
+Qatar;3.18;2016;Qatar;QA;16.919
+Qatar;3.18;2015;Qatar;QA;16.85
+Qatar;3.18;2014;Qatar;QA;16.295
+Qatar;3.18;2013;Qatar;QA;14.082
+Qatar;3.18;2012;Qatar;QA;16.555
+Qatar;3.18;2011;Qatar;QA;20.009
+Qatar;3.09;2010;Qatar;QA;13.444
+Qatar;2.92;2008;Qatar;QA;#N/A
+Qatar;2.78;2006;Qatar;QA;#N/A
+Saudi Arabia;2.08;2020;Saudi Arabia;SA;12.022
+Saudi Arabia;1.93;2019;Saudi Arabia;SA;12.51
+Saudi Arabia;1.93;2018;Saudi Arabia;SA;19.054
+Saudi Arabia;1.93;2017;Saudi Arabia;SA;17.714
+Saudi Arabia;1.93;2016;Saudi Arabia;SA;18.567
+Saudi Arabia;1.93;2015;Saudi Arabia;SA;22.372
+Saudi Arabia;1.82;2014;Saudi Arabia;SA;14.042
+Saudi Arabia;1.82;2013;Saudi Arabia;SA;13.389
+Saudi Arabia;1.71;2012;Saudi Arabia;SA;14.028
+Saudi Arabia;1.77;2011;Saudi Arabia;SA;18.946
+Saudi Arabia;1.84;2010;Saudi Arabia;SA;#N/A
+Saudi Arabia;1.9;2008;Saudi Arabia;SA;#N/A
+Saudi Arabia;1.92;2006;Saudi Arabia;SA;#N/A
+Sudan;2.54;2020;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.7;2019;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.15;2018;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.15;2017;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.37;2016;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.37;2015;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.54;2014;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.54;2013;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.38;2012;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.38;2011;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.42;2010;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.81;2008;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Sudan;2.9;2006;Sudan (the);SD;Invalid RIC(s): SDGV10YUSAC=R
+Syria;1.43;2020;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.43;2019;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.43;2018;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.43;2017;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.43;2016;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.43;2015;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.74;2014;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.86;2013;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.63;2012;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;1.99;2011;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;2.31;2010;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;2.18;2008;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Syria;2.36;2006;Syrian Arab Republic (the);SY;Invalid RIC(s): SYGV10YUSAC=R
+Tunisia;6.59;2020;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;6.72;2019;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;6.41;2018;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;6.32;2017;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;6.4;2016;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;6.72;2015;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;6.31;2014;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;5.76;2013;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;5.67;2012;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;5.53;2011;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;2.79;2010;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;2.96;2008;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+Tunisia;3.06;2006;Tunisia;TN;Invalid RIC(s): TNGV10YUSAC=R
+UAE;2.7;2020;United Arab Emirates (the);AE;#N/A
+UAE;2.76;2019;United Arab Emirates (the);AE;#N/A
+UAE;2.76;2018;United Arab Emirates (the);AE;#N/A
+UAE;2.69;2017;United Arab Emirates (the);AE;#N/A
+UAE;2.75;2016;United Arab Emirates (the);AE;#N/A
+UAE;2.75;2015;United Arab Emirates (the);AE;36.53
+UAE;2.64;2014;United Arab Emirates (the);AE;42.21
+UAE;2.52;2013;United Arab Emirates (the);AE;41.126
+UAE;2.58;2012;United Arab Emirates (the);AE;35.893
+UAE;2.58;2011;United Arab Emirates (the);AE;#N/A
+UAE;2.52;2010;United Arab Emirates (the);AE;#N/A
+UAE;2.6;2008;United Arab Emirates (the);AE;#N/A
+UAE;2.42;2006;United Arab Emirates (the);AE;#N/A
+Yemen;1.95;2020;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;1.95;2019;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;1.95;2018;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.07;2017;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.07;2016;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.24;2015;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.79;2014;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.79;2013;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;3.12;2012;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.57;2011;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.64;2010;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.95;2008;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Yemen;2.98;2006;Yemen;YE;Invalid RIC(s): YEGV10YUSAC=R
+Angola;3.66;2020;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.72;2019;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.62;2018;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.62;2017;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.4;2016;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.35;2015;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.35;2014;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.35;2013;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.35;2012;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.32;2011;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.32;2010;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;3.35;2008;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Angola;2.41;2006;Angola;AO;Invalid RIC(s): AOGV10YUSAC=R
+Benin;4.58;2020;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;5.09;2019;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;5.74;2018;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;5.61;2017;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;5.67;2016;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;5.72;2015;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;5.65;2014;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;5.87;2013;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;6;2012;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;6.06;2011;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;6.17;2010;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;6.06;2008;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Benin;6.16;2006;Benin;BJ;Invalid RIC(s): BJGV10YUSAC=R
+Botswana;7.62;2020;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.81;2019;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.81;2018;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.81;2017;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.87;2016;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.87;2015;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.87;2014;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.98;2013;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.85;2012;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.63;2011;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.63;2010;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.47;2008;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Botswana;7.6;2006;Botswana;BW;Invalid RIC(s): BWGV10YUSAC=R
+Burkina Faso;3.73;2020;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;4.04;2019;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;4.75;2018;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;4.75;2017;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;4.7;2016;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;4.7;2015;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;4.09;2014;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;4.15;2013;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;3.52;2012;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;3.59;2011;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;3.59;2010;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;3.6;2008;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burkina Faso;3.72;2006;Burkina Faso;BF;Invalid RIC(s): BFGV10YUSAC=R
+Burundi;2.14;2020;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;2.15;2019;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;2.33;2018;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;2.33;2017;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;2.4;2016;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;2.49;2015;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;3.33;2014;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;3.41;2013;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;3.6;2012;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;4.01;2011;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;4.01;2010;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;4.51;2008;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Burundi;4.51;2006;Burundi;BI;Invalid RIC(s): BIGV10YUSAC=R
+Cabo Verde;7.65;2020;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.78;2019;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.88;2018;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.88;2017;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.94;2016;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.81;2015;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.81;2014;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.92;2013;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.92;2012;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.92;2011;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.94;2010;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.81;2008;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cabo Verde;7.43;2006;Cabo Verde;CV;Invalid RIC(s): CVGV10YUSAC=R
+Cameroon;2.77;2020;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;2.85;2019;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.28;2018;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.61;2017;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.46;2016;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.66;2015;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.41;2014;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.41;2013;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.44;2012;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.41;2011;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.41;2010;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.46;2008;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Cameroon;3.27;2006;Cameroon;CM;Invalid RIC(s): CMGV10YUSAC=R
+Central African Republic;1.32;2020;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.32;2019;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.52;2018;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.52;2017;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.61;2016;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.57;2015;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.49;2014;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.49;2013;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.99;2012;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.82;2011;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.82;2010;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.86;2008;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Central African Republic;1.61;2006;Central African Republic (the);CF;Invalid RIC(s): CFGV10YUSAC=R
+Chad;1.55;2020;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.61;2019;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.61;2018;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.5;2017;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.5;2016;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.5;2015;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.5;2014;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.5;2013;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.62;2012;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.62;2011;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.52;2010;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.52;2008;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Chad;1.65;2006;Chad;TD;Invalid RIC(s): TDGV10YUSAC=R
+Comoros;3.09;2020;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.15;2019;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.71;2018;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.71;2017;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.71;2016;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.71;2015;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.52;2014;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.52;2013;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.52;2012;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.52;2011;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.41;2010;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.58;2008;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Comoros;3.9;2006;Comoros (the);KM;Invalid RIC(s): KMGV10YUSAC=R
+Congo (Brazzaville);3.11;2020;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);3.11;2019;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);3.31;2018;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);3.25;2017;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);2.91;2016;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);2.91;2015;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);2.89;2014;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);2.89;2013;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);2.89;2012;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);2.89;2011;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);2.89;2010;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);2.94;2008;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Congo (Brazzaville);3.19;2006;Congo (the);CG;Invalid RIC(s): CGGV10YUSAC=R
+Côte d’Ivoire;4.11;2020;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;4.05;2019;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;4.15;2018;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.93;2017;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.81;2016;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.31;2015;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.53;2014;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.25;2013;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.25;2012;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.08;2011;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.02;2010;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.27;2008;Côte d'Ivoire;CI;#N/A
+Côte d’Ivoire;3.38;2006;Côte d'Ivoire;CI;#N/A
+Democratic Republic of Congo;1.13;2020;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;1.13;2019;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;1.49;2018;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;1.61;2017;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;1.93;2016;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;2.11;2015;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;1.75;2014;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;1.83;2013;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;1.92;2012;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;2.15;2011;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;2.15;2010;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;2.28;2008;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Democratic Republic of Congo;2.76;2006;Congo (the Democratic Republic of the);CD;Invalid RIC(s): CDGV10YUSAC=R
+Djibouti;2.71;2020;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.77;2019;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.87;2018;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.76;2017;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.83;2016;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.9;2015;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.99;2014;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.96;2013;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.74;2012;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.68;2011;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.2;2010;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.37;2008;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Djibouti;2.37;2006;Djibouti;DJ;Invalid RIC(s): DJGV10YUSAC=R
+Equatorial Guinea;1.92;2020;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.92;2019;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.92;2018;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.81;2017;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.7;2016;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.77;2015;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.66;2014;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.77;2013;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.83;2012;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.77;2011;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;1.84;2010;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;2.19;2008;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Equatorial Guinea;2.09;2006;Equatorial Guinea;GQ;Invalid RIC(s): GQGV10YUSAC=R
+Eritrea;2.15;2020;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.37;2019;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.37;2018;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.37;2017;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.37;2016;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.37;2015;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.44;2014;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.4;2013;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.4;2012;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.34;2011;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.31;2010;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.31;2008;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+Eritrea;2.31;2006;Eritrea;ER;Invalid RIC(s): ERGV10YUSAC=R
+eSwatini;3.08;2020;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.14;2019;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.03;2018;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.03;2017;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.03;2016;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.09;2015;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.09;2014;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.2;2013;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.2;2012;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.26;2011;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;2.9;2010;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;3.04;2008;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+eSwatini;2.93;2006;eSwatini;SZ;Invalid RIC(s): SZGV10YUSAC=R
+Ethiopia;3.38;2020;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.44;2019;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.35;2018;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.42;2017;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.6;2016;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.83;2015;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.72;2014;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.83;2013;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.72;2012;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.79;2011;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;3.68;2010;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;4.52;2008;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Ethiopia;4.72;2006;Ethiopia;ET;Invalid RIC(s): ETGV10YUSAC=R
+Gabon;3.54;2020;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.61;2019;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.61;2018;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.61;2017;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.74;2016;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.76;2015;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.76;2014;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.76;2013;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.56;2012;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.48;2011;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3.29;2010;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;3;2008;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gabon;2.72;2006;Gabon;GA;Invalid RIC(s): GAGV10YUSAC=R
+Gambia;4.49;2020;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;4.33;2019;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;4.31;2018;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;4.06;2017;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;2.91;2016;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;2.97;2015;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;3.05;2014;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;3.31;2013;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;3.31;2012;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;3.38;2011;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;3.38;2010;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;4.19;2008;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Gambia;4.39;2006;Gambia (the);GM;Invalid RIC(s): GMGV10YUSAC=R
+Ghana;6.5;2020;Ghana;GH;54.795
+Ghana;6.63;2019;Ghana;GH;38.521
+Ghana;6.63;2018;Ghana;GH;44.287
+Ghana;6.69;2017;Ghana;GH;41.389
+Ghana;6.75;2016;Ghana;GH;61.722
+Ghana;6.86;2015;Ghana;GH;76.499
+Ghana;6.33;2014;Ghana;GH;75.049
+Ghana;6.33;2013;Ghana;GH;57.589
+Ghana;6.02;2012;Ghana;GH;52.758
+Ghana;6.02;2011;Ghana;GH;49.219
+Ghana;6.02;2010;Ghana;GH;#N/A
+Ghana;5.35;2008;Ghana;GH;#N/A
+Ghana;5.35;2006;Ghana;GH;#N/A
+Guinea;3.08;2020;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;3.14;2019;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;3.14;2018;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;3.14;2017;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;3.14;2016;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;3.14;2015;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;3.01;2014;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;2.84;2013;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;2.79;2012;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;2.79;2011;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;2.79;2010;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;2.09;2008;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea;2.02;2006;Guinea;GN;Invalid RIC(s): GNGV10YUSAC=R
+Guinea-Bissau;2.63;2020;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;2.63;2019;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.98;2018;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.98;2017;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.98;2016;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.93;2015;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.93;2014;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.26;2013;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.43;2012;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.99;2011;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.99;2010;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;1.99;2008;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Guinea-Bissau;2;2006;Guinea-Bissau;GW;Invalid RIC(s): GWGV10YUSAC=R
+Kenya;5.05;2020;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;5.18;2019;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;5.11;2018;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;5.11;2017;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;5.33;2016;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;5.33;2015;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;5.13;2014;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;5.13;2013;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;4.71;2012;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;4.71;2011;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;4.71;2010;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;4.79;2008;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Kenya;5.08;2006;Kenya;KE;Invalid RIC(s): KEGV10YUSAC=R
+Lesotho;6.3;2020;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.54;2019;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.64;2018;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.64;2017;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.59;2016;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.59;2015;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.66;2014;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.66;2013;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.66;2012;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.33;2011;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.02;2010;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.29;2008;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Lesotho;6.48;2006;Lesotho;LS;Invalid RIC(s): LSGV10YUSAC=R
+Liberia;5.32;2020;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;5.45;2019;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;5.35;2018;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;5.23;2017;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;5.31;2016;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;4.95;2015;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;4.95;2014;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;4.95;2013;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;4.95;2012;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;5.07;2011;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;5.07;2010;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;5.25;2008;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Liberia;5.22;2006;Liberia;LR;Invalid RIC(s): LRGV10YUSAC=R
+Madagascar;5.7;2020;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;5.64;2019;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;5.22;2018;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;5.11;2017;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;5.07;2016;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;4.85;2015;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;4.42;2014;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;4.32;2013;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;3.93;2012;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;3.93;2011;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;3.94;2010;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;5.57;2008;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Madagascar;5.82;2006;Madagascar;MG;Invalid RIC(s): MGGV10YUSAC=R
+Malawi;5.74;2020;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.5;2019;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.49;2018;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.49;2017;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.55;2016;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.55;2015;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.66;2014;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;6;2013;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;6.08;2012;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.84;2011;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.84;2010;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;5.13;2008;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Malawi;4.97;2006;Malawi;MW;Invalid RIC(s): MWGV10YUSAC=R
+Mali;3.93;2020;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;4.92;2019;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.41;2018;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.64;2017;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.7;2016;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.7;2015;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.79;2014;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.9;2013;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.12;2012;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;6.36;2011;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;6.01;2010;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.87;2008;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mali;5.99;2006;Mali;ML;Invalid RIC(s): MLGV10YUSAC=R
+Mauritania;3.92;2020;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;3.92;2019;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;3.82;2018;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;3.82;2017;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;3.96;2016;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;3.96;2015;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;4.17;2014;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;4.17;2013;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;4.17;2012;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;4.17;2011;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;3.86;2010;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;3.91;2008;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritania;3.12;2006;Mauritania;MR;Invalid RIC(s): MRGV10YUSAC=R
+Mauritius;8.14;2020;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.22;2019;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.22;2018;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.22;2017;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.28;2016;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.28;2015;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.17;2014;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.17;2013;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.17;2012;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.04;2011;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.04;2010;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.04;2008;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mauritius;8.04;2006;Mauritius;MU;Invalid RIC(s): MUGV10YUSAC=R
+Mozambique;3.51;2020;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;3.65;2019;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;3.85;2018;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;4.02;2017;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;4.02;2016;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;4.6;2015;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;4.66;2014;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;4.77;2013;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;4.88;2012;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;4.9;2011;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;4.9;2010;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;5.49;2008;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Mozambique;5.28;2006;Mozambique;MZ;Invalid RIC(s): MZGV10YUSAC=R
+Namibia;6.52;2020;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.43;2019;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.25;2018;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.31;2017;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.31;2016;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.31;2015;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.24;2014;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.24;2013;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.24;2012;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.24;2011;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.23;2010;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.48;2008;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Namibia;6.54;2006;Namibia;NA;Invalid RIC(s): NAGV10YUSAC=R
+Niger;3.29;2020;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;3.29;2019;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;3.76;2018;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;3.76;2017;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;3.96;2016;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;3.85;2015;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;4.02;2014;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;4.08;2013;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;4.16;2012;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;4.16;2011;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;3.38;2010;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;3.41;2008;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Niger;3.54;2006;Niger (the);NE;Invalid RIC(s): NEGV10YUSAC=R
+Nigeria;4.1;2020;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;4.12;2019;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;4.44;2018;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;4.44;2017;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;4.5;2016;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;4.62;2015;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;3.76;2014;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;3.77;2013;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;3.77;2012;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;3.83;2011;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;3.47;2010;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;3.53;2008;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Nigeria;3.52;2006;Nigeria;NG;Invalid RIC(s): NGGV10YUSAC=R
+Rwanda;3.1;2020;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.16;2019;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.35;2018;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.19;2017;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.07;2016;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.07;2015;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.25;2014;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.38;2013;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.36;2012;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.25;2011;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.25;2010;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.71;2008;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Rwanda;3.82;2006;Rwanda;RW;Invalid RIC(s): RWGV10YUSAC=R
+Senegal;5.67;2020;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;5.81;2019;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;6.15;2018;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;6.15;2017;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;6.21;2016;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;6.08;2015;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;6.15;2014;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;6.15;2013;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;6.09;2012;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;5.51;2011;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;5.27;2010;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;5.37;2008;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Senegal;5.37;2006;Senegal;SN;Invalid RIC(s): SNGV10YUSAC=R
+Sierra Leone;4.86;2020;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.86;2019;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.66;2018;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.66;2017;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.55;2016;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.55;2015;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.56;2014;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.64;2013;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.71;2012;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.51;2011;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.51;2010;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;4.11;2008;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+Sierra Leone;3.57;2006;Sierra Leone;SL;Invalid RIC(s): SLGV10YUSAC=R
+South Africa;7.05;2020;South Africa;ZA;31.066
+South Africa;7.24;2019;South Africa;ZA;28.255
+South Africa;7.24;2018;South Africa;ZA;32.848
+South Africa;7.24;2017;South Africa;ZA;30.421
+South Africa;7.41;2016;South Africa;ZA;32.189
+South Africa;7.56;2015;South Africa;ZA;41.039
+South Africa;7.82;2014;South Africa;ZA;29.183
+South Africa;7.9;2013;South Africa;ZA;31.647
+South Africa;7.79;2012;South Africa;ZA;25.572
+South Africa;7.79;2011;South Africa;ZA;27.705
+South Africa;7.79;2010;South Africa;ZA;19.88
+South Africa;7.91;2008;South Africa;ZA;#N/A
+South Africa;7.91;2006;South Africa;ZA;#N/A
+Tanzania;5.1;2020;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.16;2019;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.41;2018;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.47;2017;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.76;2016;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.58;2015;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.77;2014;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.77;2013;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.88;2012;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.64;2011;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.64;2010;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.28;2008;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Tanzania;5.18;2006;Tanzania, the United Republic of;TZ;Invalid RIC(s): TZGV10YUSAC=R
+Togo;2.8;2020;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.3;2019;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.1;2018;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.05;2017;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.32;2016;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.41;2015;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.45;2014;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.45;2013;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.45;2012;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.45;2011;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;3.45;2010;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;2.43;2008;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Togo;1.75;2006;Togo;TG;Invalid RIC(s): TGGV10YUSAC=R
+Uganda;4.94;2020;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.02;2019;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.2;2018;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.09;2017;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.26;2016;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.22;2015;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.22;2014;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.22;2013;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.16;2012;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.13;2011;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.05;2010;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.03;2008;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Uganda;5.14;2006;Uganda;UG;Invalid RIC(s): UGGV10YUSAC=R
+Zambia;4.86;2020;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;5.09;2019;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;5.61;2018;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;5.68;2017;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;5.99;2016;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;6.28;2015;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;6.39;2014;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;6.26;2013;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;6.26;2012;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;6.19;2011;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;5.68;2010;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;5.25;2008;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zambia;5.25;2006;Zambia;ZM;Invalid RIC(s): ZMGV10YUSAC=R
+Zimbabwe;3.16;2020;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;3.16;2019;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;3.16;2018;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;3.16;2017;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;3.05;2016;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;3.05;2015;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;2.78;2014;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;2.67;2013;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;2.67;2012;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;2.68;2011;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;2.64;2010;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;2.53;2008;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
+Zimbabwe;2.62;2006;Zimbabwe;ZW;Invalid RIC(s): ZWGV10YUSAC=R
